@@ -1,0 +1,13 @@
+ronny@Ubu:~/Documents/actividad-6-2-ramas-con-git-RonnyRJ$ git branch
+* feature-mensaje-bienvenida
+  main
+
+ronny@Ubu:~/Documents/actividad-6-2-ramas-con-git-RonnyRJ$ git log --oneline
+5141abe (HEAD -> feature-mensaje-bienvenida) Añade mensaje de bienvenida en rama feature
+8bc4af0 (main) Versión inicial de la aplicación
+ff419fc (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+ronny@Ubu:~/Documents/a
+
+Se creo una nueva rama llamada feature-mensaje-bienvenida, despues se tenia que cambiar a esta como la principal, seguido se comprueba en que rama estamos con el comando git branch.
+Por ultimo se edito el archivo app.txt y asi quedaria guardado en esta rama.
